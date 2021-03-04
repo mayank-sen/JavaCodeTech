@@ -9,7 +9,7 @@ public class App {
 
 		System.out.println("data = " + data);
 		if (data.equals("javatechie")) {
-			System.out.println("welcome");
+			System.out.println(Constant.consVar);
 		}
 	}
 

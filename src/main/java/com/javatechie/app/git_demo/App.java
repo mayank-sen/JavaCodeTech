@@ -17,6 +17,11 @@ public class App {
 	{
 		System.out.println("I am doing Something");
 	}
+	
+	public void doOtherThing()
+	{
+		System.out.println("I am doing other things");
+	}
 
 	public static void main(String[] args) {
 		System.out.println("Hello World!");

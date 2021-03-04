@@ -12,6 +12,11 @@ public class App {
 			System.out.println(Constant.consVar);
 		}
 	}
+	
+	public void doSomething()
+	{
+		System.out.println("I am doing Something");
+	}
 
 	public static void main(String[] args) {
 		System.out.println("Hello World!");

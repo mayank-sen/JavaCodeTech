@@ -6,6 +6,7 @@ package com.javatechie.app.git_demo;
  */
 public class App {
 	public void addData(String data) {
+		int i ;
 
 		System.out.println("data = " + data);
 		if (data.equals("javatechie")) {
